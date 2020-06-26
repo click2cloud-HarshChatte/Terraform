@@ -1,8 +1,5 @@
 provider "azurerm" {
-subscription_id = "3798a4c5-703b-4cf8-b4a0-80f2ba29e85c"
-client_id = "b36248db-b040-4056-9197-67c25ac51784"
-client_secret = "63e8dd2c-600a-4a5e-bfb4-14649c91741b"
-tenant_id = "fa0fd8d2-d414-482c-a2a3-d86969b5c5fc"
+
 
   # whilst the `version` attribute is optional, we recommend pinning to a given version of the Provider
   version = "=2.0.0"
